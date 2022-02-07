@@ -8,6 +8,6 @@ class KotlinCdCiGithubActionsTestApplicationTests {
 
     @Test
     fun contextLoads() {
-        print(5)
+        print("fdgszufdahgsufhudashfuidashufdashuifhsaduifhuidsahfifdfdsfdsvmcxklvmcxlvmkcxlmvkxmvklcxmvklcxmvklcxmvlmxlkvmxklvmlkx")
     }
 }
