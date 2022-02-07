@@ -289,7 +289,7 @@ formatting:
     active: false
     autoCorrect: true
     indentSize: 4
-    maxLineLength: 120
+    maxLineLength: 140
   ChainWrapping:
     active: true
     autoCorrect: true

@@ -16,4 +16,4 @@ jobs:
       - name: "detekt"
         uses: natiginfo/action-detekt-all@1.19.0
         with:
-          args: --config detekt.yaml
+          detekt_config: detekt.yaml
